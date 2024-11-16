@@ -1,0 +1,8 @@
+pandas
+numpy
+spaCy
+TextBlob
+VADER
+matplotlib
+seaborn
+scikit-learn
